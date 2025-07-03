@@ -5,14 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> java </title>
 </head>
-<body>
+<body bgcolor="898AC4">
     <a href="https://github.com/Priyanshu1618p">git hub </a> <br>
     <img src="baby.jpg" alt="image of baby">
-    <form>
-    <fieldset>
-                   <legend>Personal Information</legend>
+    <form align="center">
+    <fieldset
+                <legend>presonal details</legend>
+
+                   <label for="name">Name:</label>
       Enter Name : <input type="text"required placeholder="Enter Name"> <br> <br>
+                   <label for="Contact">contact:</label>
       Enter Contact : <input type="number" placeholder="Enter mobile no"> <br> <br>
+                    <label for="Email">Email:</label>
       Enter Email : <input type="email" name="" id="" placeholder="Enter Email"> <br><br>
       Enter Password: <input type="password" placeholder="Enter Password"> <br><br>
       Enter DOB : <input type="date"> <br><br>
@@ -23,8 +27,68 @@
               <input type="radio"name="gender"> female
               <input type="radio"name="gender"> other <br> <br>
 
-              <input type="submit" value="Sign Up"
-    </fieldset>         
-    </form>
+              <input type="submit" value="Sign Up" 
+              
+              <select>
+                <option> bhopal </option>
+                <option> Sehore </option>
+                <option> indore </option>
+                <option> gowalior </option>
+                <option> vidisha </option>
+              </select>
+
+              <!-- detail + sumary ,meter ,progress ,time ,abbr  -->
+    </feildset>     
+    </form> 
+
+    <table>
+        <tr> table rom
+            <th> table headings
+                <td></td> table data
+           </th>
+        </tr>
+    </table>
+
+    <table border="5" align="center" cellspacing="25px" cellpedding="10px">
+       
+        <tr>
+            <th>roll no</th>
+            <th>Name</th>
+            <th>City</th>
+            <th>Fees</th>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td colspan="03">priyanshu</td>
+            <!-- <td>bhopal</td> -->
+            <!-- <td>50000</td> -->
+        </tr>
+
+        <tr>
+            <td>03</td>
+            <td>ajay</td>
+            <td>guwalior</td>
+            <td>53000</td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>anshul</td>
+            <td rowspan="2">sehore</td>
+            <td>40000</td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>aryan</td>
+            <!-- <td>sehore</td> -->
+            <td>45000</td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td>harsh</td>
+            <td>bhopal</td>
+            <td>30000</td>
+        </tr>
+
+    </table>
 </body>
 </html>
