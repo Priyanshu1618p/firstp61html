@@ -1,0 +1,28 @@
+
+/* P{
+    color: black;
+    background-color: blueviolet;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 30px; text-decoration: underline; letter-spacing: 5px; font-style: italic; text-transform: uppercase;  
+} */
+
+#pera1{
+
+    color: black; background-color: aqua;
+}
+
+#pera1{
+
+    color: azure;background-color: blue;
+}
+
+#pera2{
+
+    color: brown;font-size: 100px;font-style: italic;
+}
+
+.para3{
+
+    color: aliceblue; background-color: blueviolet; font-style: italic; width: 90px;
+}
