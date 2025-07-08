@@ -1,6 +1,6 @@
 
-P{
-    /* color: black;
+/* P{
+    color: black;
     background-color: blueviolet;
     font-size: 30px;
     font-family: Impact,
@@ -11,72 +11,67 @@ P{
      text-decoration: underline; 
      letter-spacing: 5px; 
      font-style: italic; 
-     text-transform: uppercase;  
-/* } */
-
-/* #pera1{
-
-    color: black; background-color: aqua;
-}
+     text-transform: uppercase;} 
 
 #pera1{
 
-    color: azure;background-color: blue;
-}
+    color: black; background-color: aqua;}
+
+#pera1{
+
+    color: azure;background-color: blue;}
 
 #pera2{
 
-    color: brown;font-size: 100px;font-style: italic;
-}
+    color: brown;font-size: 100px;font-style: italic;}
 
 .pera3{
 
     color: aliceblue;
-     background-color: blueviolet;
-      font-style: italic; 
-      /* width: 90px; */
-       /* border: 5px solid black; 
-       margin: 20px;
-       padding: 10px 20px;
-}
+    background-color: blueviolet;
+    font-style: italic; 
+    width: 90px;
+    border: 5px solid black; 
+    margin: 20px;
+    padding: 10px 20px;}
 
 .n1{
-    color: blueviolet;
-}
+    color: blueviolet;}
 
 .n2{
-    color: black;
-}
+    color: black;}
 
 .n3{
-    color: aqua; } */ 
+    color: aqua; } 
 
-/* .n4{color: aquamarine;}  .n5{color: brown;} .n6{color: black;} .n7{color: blueviolet;} .n8{color: aqua;} .n9{color: antiquewhite;}
+.n4{color: aquamarine;}  .n5{color: brown;} .n6{color: black;} .n7{color: blueviolet;} .n8{color: aqua;} .n9{color: antiquewhite;}
 
 .pr1{color: aqua; background-color: blueviolet; border: 10px dotted red; padding-left: 20px;margin-bottom: 20px; padding-top: 20px
 ; }
- */
 
- /* .m1{
-    width: 250px; height: 500px;
- }
 
- .m2{
-    width: 250px; height: 200px;
- }
+.m1{
+    width: 250px; height: 500px;}
 
- .m3{
-    width: 250px; height: 200px; background-color: aqua;
+.m2{
+    width: 250px; height: 200px;} */
+
+.m3{
+    width: 100%; height: 50px; background-color: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 200px;
-    
- }
+    gap: 200px;}
 
- .m4{
-    width: 250px; height: 100px;
+ /* .m4{
+    width: 250px; height: 100px;}
 
- }
+.main{width: 20px; height: 40px; background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;}    
+ */
+
 
  
