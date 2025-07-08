@@ -49,35 +49,66 @@ int main(){
 
      //   address-> variable we use &-> ampersent or address of 
 
-     int a=10;
-     cout<<&a<<endl;
+    //  int a=10;
+    //  cout<<&a<<endl;
 
-     int b=20;
-     cout<<&b<<endl;
+    //  int b=20;
+    //  cout<<&b<<endl;
 
-     // size-> datatypes
-     cout<<sizeof(int)<<endl;
-     cout<<sizeof(float)<<endl;
-     cout<<sizeof(double)<<endl;
-     cout<<sizeof(char)<<endl;
-     cout<<sizeof(bool)<<endl;
+    //  // size-> datatypes
+    //  cout<<sizeof(int)<<endl;
+    //  cout<<sizeof(float)<<endl;
+    //  cout<<sizeof(double)<<endl;
+    //  cout<<sizeof(char)<<endl;
+    //  cout<<sizeof(bool)<<endl;
 
-     //   limit-> datatypes
+    //  //   limit-> datatypes
 
-       cout<<numeric_limits<int>::max()<<endl;
-       cout<<numeric_limits<int>::min()<<endl;
+    //    cout<<numeric_limits<int>::max()<<endl;
+    //    cout<<numeric_limits<int>::min()<<endl;
 
-       cout<<numeric_limits<float>::max()<<endl;
-       cout<<numeric_limits<float>::min()<<endl;
+    //    cout<<numeric_limits<float>::max()<<endl;
+    //    cout<<numeric_limits<float>::min()<<endl;
 
-       cout<<numeric_limits<bool>::max()<<endl;
-       cout<<numeric_limits<bool>::min()<<endl;
+    //    cout<<numeric_limits<bool>::max()<<endl;
+    //    cout<<numeric_limits<bool>::min()<<endl;
 
-       cout<<INT_MAX<<endl;
-       cout<<INT_MIN<<endl;
+    //    cout<<INT_MAX<<endl;
+    //    cout<<INT_MIN<<endl;
 
-       cout<<CHAR_MAX<<endl;
-       cout<<CHAR_MIN<<endl;
+    //    cout<<CHAR_MAX<<endl;
+    //    cout<<CHAR_MIN<<endl;
+     
+    //  square
+
+    // int side;
+    // cout<<"Enter a side: ";
+    // cin>>side;
+    // cout<<side*side;
+
+    // rectangle
+
+    // int width , hight;
+    // cout<<" Enter width";
+    // cin>>width;
+    // cout<<"Enter a hight";
+    // cin>>hight;
+
+    // cout<<width*hight;
+
+    // circle
+
+    int pai , R , square;
+    cout<<"Enter a pai";
+    cin>>pai;
+    cout<<"Enter a R";
+    cin>>R;
+    cout<<"Enter a square";
+    cin>>square;
+
+    cout<< pai*R*square
+
+
 
 
 
