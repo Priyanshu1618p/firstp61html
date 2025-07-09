@@ -96,21 +96,67 @@ int main(){
 
     // cout<<width*hight;
 
-    // circle
-
-    int pai , R , square;
-    cout<<"Enter a pai";
-    cin>>pai;
-    cout<<"Enter a R";
-    cin>>R;
-    cout<<"Enter a square";
-    cin>>square;
-
-    cout<< pai*R*square
+// int b,h;
+// cout<<"enter base";
+// cin>>b;
+// cout<<"enter base";
+// cin>>h;
+// cout<<b*h;
 
 
+// are of circle
+
+// int r;
+// cout<<"enter a radius";
+// cin>> r;
+// cout<< 3.14*r*r;
 
 
 
-}
+//    area of sqauare {
+//         int side;
+//         cout<<"Enter a side";
+//         cin>>side;
+//         cout<<side*side;
+//    }
 
+//    area of triangle 
+// {
+//         int b,h;
+//         cout<<"Enter a base" <<endl;
+//         cout<<"Enter a height"<< endl;
+//         cin>> b>>h;
+//         cout<<b*h/2;
+// }
+
+//   int a=10;
+//   int b=20;
+
+//   cout<<(a>b)<<endl;
+//   cout<<(a<b)<<endl;
+//   cout<<(a<=b)<<endl;
+//   cout<<(a>=b)<<endl;
+//   cout<<(a==b)<<endl;
+//   cout<<(a!=b)<<endl;
+
+//    cout<<(1&&0)<<endl;
+//    cout<<(1&&1)<<endl;
+//    cout<<(05&&06)<<endl;
+
+//    cout<<(0||1)<<endl;
+//    cout<<(1&&1)<<endl;
+
+//    cout<<(!10)<<endl;
+
+   int a=10;
+   int b=200;
+   int c=70;
+
+   cout<<( a>b && a>c )<<endl;
+   cout<<( b>a && b>c )<<endl;
+   cout<<( c>a && c>b )<<endl;
+
+
+
+  
+ }
